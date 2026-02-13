@@ -8,6 +8,14 @@
 ### Removed
 ### Deprecated
 
+## [1.2.0] - 2026-02-12
+
+### Added
+- Task update service
+- Task delete service
+- Methods were added to return all tasks as well as to filter by status (todo, done, in-progress)
+- Methods were added to update the status of a task
+
 ## [1.1.0] - 2026-02-08
 
 ### Added
